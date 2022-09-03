@@ -1,2 +1,19 @@
-git config --global user.name "Cristian Garcia"
-git config --global user.email "neftaligarcia3500@gmail.com"
+Configuración Básica de Git:
+
+1. git config --global user.name "Su nombre"
+2. git config --global user.email "su email @gmail.com"
+
+
+Key para Git:
+
+1. https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+2. https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+
+Comandos de Git:
+
+1. git add .
+2. git commit -m "Primer Commit"}
+3. git pull
+4. git push
